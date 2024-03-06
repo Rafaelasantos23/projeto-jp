@@ -14,7 +14,7 @@ body{
 }
 
 .conteiner{
-    padding: 30px;
+    padding: 20px;
     background-color: #ffffff;
     border-radius: 10px;
     display: flex;
@@ -27,11 +27,13 @@ body{
     margin: 80px 0;
     display: flex;
     gap: 50px;
+    font-size: 15px;
 }
 
 button{
+    
 padding: 10px;
-font-size: 70px;
+font-size: 20px;
 cursor: pointer;
 border: none;
 border-radius: 10px;
@@ -59,7 +61,7 @@ button:hover{
 p{
     font-weight:bolder;
     margin-bottom: 20px;
-    font-size: 30px;
+    font-size: 20px;
     color: #999393e1;
 }
 
@@ -70,7 +72,7 @@ p{
 h1{
     margin-bottom: 40px;
     font-size: bolder;
-    font-size: 50px;
+    font-size: 40px;
     color: #000000e1;
 }
 
